@@ -1,0 +1,38 @@
+{
+  "name": "SempoaDunia",
+  "short_name": "SempoaDunia",
+  "start_url": "https://www.sempoadunia.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Sempoa Dunia adalah blog tempat berbagi tutorial apapun itu baik dalam pendidikan, kehidupan sehari-hari ataupun dalam penggunaan sebuah software",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s48/logocom.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s72/logocom.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s96/logocom.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s144/logocom.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s168/logocom.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s192/logocom.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-TyHvCFu76c8/XC4XXCI69qI/AAAAAAAADSU/jYIARg9yaCom4gGCTpyGOLBz4zxcX4PrQCLcBGAs/s512/logocom.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
